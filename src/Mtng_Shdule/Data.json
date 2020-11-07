@@ -1,0 +1,29 @@
+[
+    {
+        "item_no" : 1,
+        "tracking_unit" : 1231,
+        "location" : "CA",
+        "item_code" : 12,
+        "expiry" : "23-12-10",
+        "available" : 20,
+        "picked_qty" : 12
+    },
+    {
+        "item_no" : 2,
+        "tracking_unit" : 1235,
+        "location" : "CB",
+        "item_code" : 13,
+        "expiry" : "23-12-10",
+        "available" : 20,
+        "picked_qty" : 15
+    },
+    {
+        "item_no" : 3,
+        "tracking_unit" : 123,
+        "location" : "CC",
+        "item_code" : 15,
+        "expiry" : "23-2-10",
+        "available" : 10,
+        "picked_qty" : 15
+    }
+]

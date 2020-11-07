@@ -1,0 +1,46 @@
+{
+    "order": {
+      "transaction_ref": "SO60405678",
+      "order_no": "SO60405678",
+      "po_no": 1234565
+    },
+    "customer": {
+      "code": "CAV"
+    },
+    "division": {
+      "code": "CORE"
+    },
+    "order_qty": 2135,
+    "delivery_date": "2020-11-20",
+    "req_shipment_date": "2020-11-20",
+    "notes": null,
+    "items": [
+      {
+        "item": {
+          "item_code": 63456765,
+          "alt_item_code": 63456765,
+	  "item_descr": "LUIGI 6x6.5 CROSS CUT"
+        },
+        "requested_item_qty": 1125,
+        "uom": "CA"
+      },
+      {
+        "item": {
+          "item_code": 63456763,
+          "alt_item_code": 63456763,
+	  "item_descr": "BK ALL NATURAL 20LB"
+        },
+        "requested_item_qty": 1000,
+        "uom": "CA"
+      },
+      {
+        "item": {
+          "item_code": 63456767,
+          "alt_item_code": 63456767,
+	  "item_descr": "CRC 6x6 CROSS CUT"
+        },
+        "requested_item_qty": 10,
+        "uom": "CA"
+      }
+    ]
+}

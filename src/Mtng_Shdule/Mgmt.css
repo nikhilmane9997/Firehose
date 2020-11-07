@@ -1,0 +1,60 @@
+.heading_app{
+    margin-top: 20px;
+}
+.heading_app_p{
+    position: relative;
+    left: 95px;
+    top: -10px;
+}
+.button_dload{
+    float: right;
+    position: absolute;
+    top: -80px;
+}
+.button_update{
+    float: right;
+    position: relative;
+    top: 30px;
+}
+
+.AppMgmtU_App{
+    padding-left: 70px;
+    margin-top: -100px;
+    position: relative;
+    top: -60px;
+}
+.AppUpld_Fu{
+    position: relative;
+    top: 40px;
+}
+.AppUpld_Dload{
+    float: right;
+    position: relative;
+    top: -130px;
+}
+.AppUpld_p{
+    position: relative;
+    top: -70px;
+    left: 150px;
+}
+.AppUpload_ue{
+    display: flex;
+    justify-content: center;
+}
+.AppUpload_u{
+    float: left;
+}
+.AppUpload_e{
+    float: right;
+}
+
+.upload-box{
+    margin-top: 20px;
+    /* padding: ; */
+    border: 2px solid black;
+}
+.upload-box_p{
+    padding: 10px;
+    border: 2px solid black;
+    width: 298px;
+}

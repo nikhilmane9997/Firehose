@@ -1,0 +1,246 @@
+{
+    "checkin": {
+    "checkin_no": 1710,
+    "checkin_date": "2020-10-16 08:14:53",
+    "seal_no": ""
+    },
+    "customer": {
+    "name": "Cavendish Farms Inc",
+    "code": "CAV"
+    },
+    "division": {
+    "code": "CORE"
+    },
+    "orders": [
+    {
+    "asn_order_qty": 1350,
+    "rcvd_order_qty": "",
+    "order": {
+    "order_no": "S930243514"
+    },
+    "tracking_units": [
+    {
+    "tracking_unit_no": "1100129713",
+    "on_hold": 0,
+    "quantity": 70,
+    "item_code": "63710007",
+    "alt_item_code": "56210 04019",
+    "expiry_date": "2022-08-06",
+    "location": "",
+    "damaged_qty": "",
+    "notes": ""
+    },
+    {
+    "tracking_unit_no": "1100129742",
+    "on_hold": 0,
+    "quantity": 70,
+    "item_code": "63710007",
+    "alt_item_code": "56210 04019",
+    "expiry_date": "2022-08-06",
+    "location": "",
+    "damaged_qty": "",
+    "notes": ""
+    },
+    {
+    "tracking_unit_no": "1100129758",
+    "on_hold": 0,
+    "quantity": 70,
+    "item_code": "63710007",
+    "alt_item_code": "56210 04019",
+    "expiry_date": "2022-08-06",
+    "location": "",
+    "damaged_qty": "",
+    "notes": ""
+    },
+    {
+    "tracking_unit_no": "1585719",
+    "on_hold": 0,
+    "quantity": 70,
+    "item_code": "63710477",
+    "alt_item_code": "56210 05225",
+    "expiry_date": "2022-03-21",
+    "location": "",
+    "damaged_qty": "",
+    "notes": ""
+    },
+    {
+    "tracking_unit_no": "1585730",
+    "on_hold": 0,
+    "quantity": 70,
+    "item_code": "63710477",
+    "alt_item_code": "56210 05225",
+    "expiry_date": "2022-03-21",
+    "location": "",
+    "damaged_qty": "",
+    "notes": ""
+    },
+    {
+    "tracking_unit_no": "1585735",
+    "on_hold": 0,
+    "quantity": 70,
+    "item_code": "63710477",
+    "alt_item_code": "56210 05225",
+    "expiry_date": "2022-03-21",
+    "location": "",
+    "damaged_qty": "",
+    "notes": ""
+    },
+    {
+    "tracking_unit_no": "1585752",
+    "on_hold": 0,
+    "quantity": 70,
+    "item_code": "63710477",
+    "alt_item_code": "56210 05225",
+    "expiry_date": "2022-03-21",
+    "location": "",
+    "damaged_qty": "",
+    "notes": ""
+    },
+    {
+    "tracking_unit_no": "1585761",
+    "on_hold": 0,
+    "quantity": 70,
+    "item_code": "63710477",
+    "alt_item_code": "56210 05225",
+    "expiry_date": "2022-03-21",
+    "location": "",
+    "damaged_qty": "",
+    "notes": ""
+    },
+    {
+    "tracking_unit_no": "1100150106",
+    "on_hold": 0,
+    "quantity": 60,
+    "item_code": "63713793",
+    "alt_item_code": "56210 04550",
+    "expiry_date": "2022-09-12",
+    "location": "",
+    "damaged_qty": "",
+    "notes": ""
+    },
+    {
+    "tracking_unit_no": "1100150189",
+    "on_hold": 0,
+    "quantity": 60,
+    "item_code": "63713793",
+    "alt_item_code": "56210 04550",
+    "expiry_date": "2022-09-12",
+    "location": "",
+    "damaged_qty": "",
+    "notes": ""
+    },
+    {
+    "tracking_unit_no": "1100150224",
+    "on_hold": 0,
+    "quantity": 60,
+    "item_code": "63713793",
+    "alt_item_code": "56210 04550",
+    "expiry_date": "2022-09-12",
+    "location": "",
+    "damaged_qty": "",
+    "notes": ""
+    },
+    {
+    "tracking_unit_no": "1100150269",
+    "on_hold": 0,
+    "quantity": 60,
+    "item_code": "63713793",
+    "alt_item_code": "56210 04550",
+    "expiry_date": "2022-09-12",
+    "location": "",
+    "damaged_qty": "",
+    "notes": ""
+    },
+    {
+    "tracking_unit_no": "1100150321",
+    "on_hold": 0,
+    "quantity": 60,
+    "item_code": "63713793",
+    "alt_item_code": "56210 04550",
+    "expiry_date": "2022-09-12",
+    "location": "",
+    "damaged_qty": "",
+    "notes": ""
+    },
+    {
+    "tracking_unit_no": "1140994",
+    "on_hold": 0,
+    "quantity": 70,
+    "item_code": "63874623",
+    "alt_item_code": "63874623",
+    "expiry_date": "2022-07-06",
+    "location": "",
+    "damaged_qty": "",
+    "notes": ""
+    },
+    {
+    "tracking_unit_no": "1644161",
+    "on_hold": 0,
+    "quantity": 70,
+    "item_code": "63874623",
+    "alt_item_code": "63874623",
+    "expiry_date": "2022-07-06",
+    "location": "",
+    "damaged_qty": "",
+    "notes": ""
+    },
+    {
+    "tracking_unit_no": "1644164",
+    "on_hold": 0,
+    "quantity": 70,
+    "item_code": "63874623",
+    "alt_item_code": "63874623",
+    "expiry_date": "2022-07-06",
+    "location": "",
+    "damaged_qty": "",
+    "notes": ""
+    },
+    {
+    "tracking_unit_no": "1644169",
+    "on_hold": 0,
+    "quantity": 70,
+    "item_code": "63874623",
+    "alt_item_code": "63874623",
+    "expiry_date": "2022-07-06",
+    "location": "",
+    "damaged_qty": "",
+    "notes": ""
+    },
+    {
+    "tracking_unit_no": "1644179",
+    "on_hold": 0,
+    "quantity": 70,
+    "item_code": "63874623",
+    "alt_item_code": "63874623",
+    "expiry_date": "2022-07-06",
+    "location": "",
+    "damaged_qty": "",
+    "notes": ""
+    },
+    {
+    "tracking_unit_no": "1644187",
+    "on_hold": 0,
+    "quantity": 70,
+    "item_code": "63874623",
+    "alt_item_code": "63874623",
+    "expiry_date": "2022-07-06",
+    "location": "",
+    "damaged_qty": "",
+    "notes": ""
+    },
+    {
+    "tracking_unit_no": "1644191",
+    "on_hold": 0,
+    "quantity": 70,
+    "item_code": "63874623",
+    "alt_item_code": "63874623",
+    "expiry_date": "2022-07-06",
+    "location": "",
+    "damaged_qty": "",
+    "notes": ""
+    }
+    ]
+    }
+    ]
+    }
+    

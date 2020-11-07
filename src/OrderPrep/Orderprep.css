@@ -1,0 +1,237 @@
+.bg_col{
+    /* background-color: #5e5e5e; */
+    /* color: #ffffff; */
+    /* padding-right: 180px; */
+    padding: 1px 0.4px;
+    margin: 1px 0.1px;
+}
+.bg_row{
+    margin-left: 00px;
+}
+.IT_D_T{
+    margin-top: 5px;
+    display: block;
+    margin-left: 3px;
+    height: 110px;
+}
+.ID_OP{
+    padding: 0px 30px;
+    margin-left: 350px;
+    margin-top: -100px;
+}
+.IT_D_T{
+    position: relative;
+    top: 100px;
+}
+.ID_H_text{
+    display: flex;
+    flex-direction: column;
+    width: 180px;
+    background-color: #00c3ff;
+}
+.ID_H_block{
+    float: right;
+    margin-right: 140px;
+    margin-top: -25px;
+}
+.ID_H_button{
+    position: relative;
+    left: 190px;
+    top: -45px;
+}
+.ID_H_OP{
+    position: relative;
+    top: 12px;
+    margin-left: 330px;
+}
+.ID_footer_pack{
+    margin-top: -370px;
+    margin-left: 700px;
+}
+.ID_footer_cd{
+    display: flex;
+    margin-top: 40px;
+}
+.ID_footer_c{
+    position: relative;
+    right: 230px;
+}
+.ID_footer_d{
+    position: relative;
+    left: 250px;
+}
+.IT_D_Top{
+    height: 110px;
+}
+.IT_Card_scroll{
+    overflow-y: auto;
+    height: 300px;
+    width: 270px;
+    margin-top: 90px;
+    position: relative;
+    margin-bottom: 10px;
+    
+}
+
+.tbutton{
+    margin-left: -60px;
+}
+.tcenter{
+    margin-left: 160px;
+    /* background-color: #5f5c5c; */
+}
+.inptmar{
+    margin-left: 70px;
+}
+.opcent{
+    margin-right: -900px;
+}
+.up {
+    position: relative;
+    top: -50px;
+    left: 20px;
+    padding: 7px 7px;
+    background-color: #5e5e5e;
+    border-radius: 8px;
+    color: #fff;
+}
+
+.back_col{
+    background-color: #d5d5d5;
+    margin-right: 400px;;
+}
+.bolor{
+    /* background-color: #640d0d; */
+    margin-left: auto;
+    margin-right: auto;
+    right: 110px;
+    padding-right: 10px;
+}
+.colorchk{
+    background-color: #d5d5d5;
+    position: relative;
+    left: 340px;
+    top: -315px;
+    padding-top: 30px;
+    /* padding-bottom: -40px; */
+    margin-right: 320px;
+    /* margin-bottom: 220px; */
+}
+.ordright{
+    /* float: left; */
+    position: relative;
+    left: 285px;
+    top: -25px;
+}
+
+.cnrright{
+    position: relative;
+    top: -30px;
+    left: 20px;
+}
+
+.dvnright{
+    position: relative;
+    top: -70px;
+    left: -20px;
+    float: right;
+}
+
+.OP_b_b1{
+    position: relative;
+    left: -160px;  
+    }
+.OP_b_b2{
+    position: relative;
+    left: -80px;  
+    }
+.OP_b_b12{
+    margin-left: -190px;
+}
+.OP_b_b34{
+    margin-top: -35px;   
+}
+.OP_b_b4{
+    position: relative;
+    left: 300px;
+}
+.OP_Content_top{
+    margin-top: 120px;
+    margin-left: -70px;
+}
+.OP_Content_top_panel{
+    float: auto;
+    position: absolute;
+    top: 130px;
+}
+.OP_T_C{
+    /* margin-top: 150px; */
+    /* border: 2px solid black; */
+    /* text-align: center; */
+    /* margin-left: 5px ; */
+    background-color: #5e5e5e;
+    color: #fff;
+    padding-right: 10%;
+}
+.OP_T_rc{
+    /* background-color: #5e5e5e; */
+    display: flex;
+    flex-direction: column;
+    margin-left: 25px ;
+}
+.T_bgc{
+    position: relative;
+    left: 50%;
+}
+.OP_b_footer{
+    margin-left: 358px;
+    position: fixed;
+    bottom: 0px;
+}
+
+.Card_Borders{
+    margin-top: 5px;
+    border: rgb(0, 0, 0) 5px solid;
+    width: 290px;
+    background-color: #f8f8f8;
+    color: rgb(0, 0, 0);
+}
+.card_right{
+    float: right;
+}
+.OP_Table{
+    /* margin-left: 200px; */
+    margin-right: 170px;
+    padding: 15px 50px;
+    width: 250px;
+    margin-top: -300px;
+    /* margin-left: 300px; */
+}
+.ID_footer_T{
+    margin-top: 310px;
+}
+.ID_footer_T_overflow{
+    overflow-x: auto;
+    height: 220px;
+    position: relative;
+    top: 200px;
+    width: 800px;
+    left: 340px;
+}
+.ID_footer_pack_h{
+    margin-left: -40px;
+}
+.Error_intro_orderprep{
+    margin-top: 70px;
+    margin-left: 880px;
+    color: red;
+}
+.Card_overflow{
+    overflow: auto;
+    height: 450px;
+    width: 310px;
+    /* position: relative;
+    top: -150px; */
+    margin-top: -230px;
+
+}

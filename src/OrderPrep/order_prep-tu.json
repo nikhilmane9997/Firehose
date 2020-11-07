@@ -1,0 +1,108 @@
+{
+  "order": {
+    "transaction_ref": "SO60405678",
+    "order_no": "SO60405678"
+  },
+  "customer": {
+    "code": "CAV"
+  },
+  "division": {
+    "code": "CORE"
+  },
+  "item": {
+    "item_code": 63456765,
+    "alt_item_code": 63456765,
+    "item_descr": "LUIGI 6x6.5 CROSS CUT"
+  },
+  "tracking_units": [
+    {
+      "wh_tracking_no": 74113,
+      "cust_tracking_no": "20643567",
+      "expiry_date": "2022-07-23",
+      "committed_qty": 0,
+      "avail_qty": 70,
+      "location": "5E01",
+      "committed_type": ""
+    },
+    {
+      "wh_tracking_no": 74114,
+      "cust_tracking_no": "20643564",
+      "expiry_date": "2022-07-23",
+      "committed_qty": 0,
+      "avail_qty": 70,
+      "location": "5E01",
+      "committed_type": ""
+    },
+    {
+      "wh_tracking_no": 74115,
+      "cust_tracking_no": "20643565",
+      "expiry_date": "2022-07-23",
+      "committed_qty": 0,
+      "avail_qty": 70,
+      "location": "5E01",
+      "committed_type": ""
+    },
+    {
+      "wh_tracking_no": 74118,
+      "cust_tracking_no": "20643568",
+      "expiry_date": "2022-07-23",
+      "committed_qty": 0,
+      "avail_qty": 70,
+      "location": "5E01",
+      "committed_type": ""
+    },
+    {
+      "wh_tracking_no": 74119,
+      "cust_tracking_no": "20643569",
+      "expiry_date": "2022-07-23",
+      "committed_qty": 0,
+      "avail_qty": 70,
+      "location": "5E01",
+      "committed_type": ""
+    },
+    {
+      "wh_tracking_no": 74123,
+      "cust_tracking_no": "20643573",
+      "expiry_date": "2022-07-23",
+      "committed_qty": 70,
+      "avail_qty": 70,
+      "location": "5E01",
+      "committed_type": "S"
+    },
+    {
+      "wh_tracking_no": 74124,
+      "cust_tracking_no": "20643574",
+      "expiry_date": "2022-07-23",
+      "committed_qty": 0,
+      "avail_qty": 70,
+      "location": "5E01",
+      "committed_type": ""
+    },
+    {
+      "wh_tracking_no": 74126,
+      "cust_tracking_no": "20643576",
+      "expiry_date": "2022-08-23",
+      "committed_qty": 0,
+      "avail_qty": 70,
+      "location": "3401",
+      "committed_type": ""
+    },
+    {
+      "wh_tracking_no": 74127,
+      "cust_tracking_no": "20643577",
+      "expiry_date": "2022-08-23",
+      "committed_qty": 70,
+      "avail_qty": 70,
+      "location": "3401",
+      "committed_type": "C"
+    },
+    {
+      "wh_tracking_no": 74128,
+      "cust_tracking_no": "20643578",
+      "expiry_date": "2022-08-23",
+      "committed_qty": 0,
+      "avail_qty": 70,
+      "location": "3401"
+    }
+  ]
+}
